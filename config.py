@@ -1,0 +1,1 @@
+DATABASE_URL = "postgresql+psycopg2://postgres:victor@localhost:5432/vehicle_management"
